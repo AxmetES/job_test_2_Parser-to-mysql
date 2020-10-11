@@ -1,4 +1,4 @@
-## [Tengrinews](https://tengrinews.kz/) parsing.
+## [Tengrinews](https://tengrinews.kz/) parser.
 Project to parse news site "Tengrinews". 
 Its job assignment task project.
 
