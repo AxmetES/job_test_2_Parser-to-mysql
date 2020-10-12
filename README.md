@@ -1,6 +1,6 @@
 ## [Tengrinews](https://tengrinews.kz/) parser.
-Project to parse news site "Tengrinews". 
-Its job assignment task project.
+Project to parse news site "Tengrinews", 
+and save it in mysql database.
 
 ## Get start.
 - Install dependencies  from requirements.txt.
@@ -23,5 +23,8 @@ Its job assignment task project.
 - comment - text
 - parse_date - datetime
 
+## Motivation
+
+Task for job assignment.
 
 
